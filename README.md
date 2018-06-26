@@ -4,11 +4,15 @@ In this project, we can look at the different destinations of our list along wit
 
 ### How to Use
 ---
-Download the zip file named neighborhood-map.zip and extract all the files. Run the index.html file 
+Login to Github and fork the project from "final_neighbourhood" repository.
+
+Run the file index.html.
 
 The screen will show a Google Map of some popular locations of Singapore . Locations can be chosen by:
 1. Clicking on a marker directly
 2. Clicking on an item in the list on the bottom right of the screen.
+
+The marker bounces once you click on selected one .
 
 A box will pop up over the chosen marker, giving some information about the location.
 
@@ -29,9 +33,9 @@ Resources used can be found through below links:
 	
 	http://sentry71.github.io/neighborhood-map/resources.md
 	https://github.com/Garima5/Neighbourhood-project
-    https://github.com/KyosukeOH/My-navor-map-project-Udacity
-    https://github.com/renurevzranju/map
-    https://github.com/saranvoleti/Neighborhood-Map
-    https://github.com/iqbal125/Neighborhood_Map
-    https://github.com/Christianq010/Neighborhood-Map-Master
+	https://github.com/KyosukeOH/My-navor-map-project-Udacity
+	https://github.com/renurevzranju/map
+	https://github.com/saranvoleti/Neighborhood-Map
+	https://github.com/iqbal125/Neighborhood_Map
+	https://github.com/Christianq010/Neighborhood-Map-Master
 
